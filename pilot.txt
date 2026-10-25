@@ -1,0 +1,5 @@
+CODEX-CONNECTOR-PUBLIC-001
+status=AWAITING_CODEX
+receipt=NOT_STARTED
+
+Inert integration test. Do not modify any other files.
